@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "motto☆いちごオレ",
+  "base_artist": "さくらみこ",
+  "createdAt": "2025-12-31T17:02:43.573592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "motto☆いちごオレ",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_motto☆いちごオレ_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "motto☆いちごオレ",
+      "artist": "mona(CV.夏川椎菜) feat.HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_motto☆いちごオレ_mona(CV.夏川椎菜)_feat.HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "motto☆いちごオレ",
+      "artist": "mona（CV：夏川椎菜）",
+      "has_synced": true,
+      "path": "select/03_motto☆いちごオレ_mona(CV_夏川椎菜).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "motto☆いちごオレ",
+      "artist": "hololive × HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_motto☆いちごオレ_hololive_×_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "motto☆いちごオレ",
+      "artist": "さくらみこ",
+      "has_synced": false,
+      "path": "select/pl_01_motto☆いちごオレ_さくらみこ.txt"
+    }
+  ]
+}
